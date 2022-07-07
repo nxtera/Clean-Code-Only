@@ -19,7 +19,7 @@ How to deploy live projects on github.
 
 To view the webpage follow the link 
 
-https://nxtera.github.io/My-First-Coding-Project/
+https://nxtera.github.io/Clean-Code-Only/
 
 Screenshot of live page (sample)
 

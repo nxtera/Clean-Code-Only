@@ -30,7 +30,7 @@ Screenshot of live page (sample)
 Created readme with help from https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## License
-Please refer here to UNLICENSE.txt
+Please refer to UNLICENSE.txt
 
 
 

@@ -24,7 +24,7 @@ https://nxtera.github.io/My-First-Coding-Project/
 Screenshot of live page (sample)
 
     ```md
-    ![screenshot](assets/images/website screenshot.png)
+    ![screenshot](assets/images/website screenshot.PNG)
     ```
 
 

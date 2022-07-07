@@ -29,6 +29,9 @@ Screenshot of live page (sample)
 ## Credits
 Created readme with help from https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
+## License
+
+
 
 
 

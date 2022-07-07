@@ -26,6 +26,9 @@ Screenshot of live page (sample)
     ```md
     ![screenshot](assets/images/screenshot.PNG)
     ```
+![ScreenShot](assets/images/screenshot.PNG)
+ 
+   
 ## Credits
 Created readme with help from https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 

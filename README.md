@@ -6,6 +6,7 @@ What was my motivation?
 I wanted to demonstrate all that I have learned in html and css over the past week to refactor existing code to make it more cleaner and more accessible to meet good practise standards. 
 
 What did I do?
+
 Using a template html and css file containing good but flawed code as a starting point I went over line by line and carefully:
 	- Ensured all links function correctly.
 	- Reordered and consolidated CSS selectors and properties to follow semantic structure.

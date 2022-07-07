@@ -15,7 +15,7 @@ What did I learn?
 That all good coders follow the 'Scout Rule'! This rule recommends that you always leave the code a little cleaner than you found it.
 How to deploy live projects on github.
 
-## Installation.
+## Usage.
 
 To view the webpage follow the link 
 
@@ -26,7 +26,8 @@ Screenshot of live page (sample)
     ```md
     ![screenshot](assets/images/screenshot.PNG)
     ```
-
+## Credits
+Created readme with help from https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 
 

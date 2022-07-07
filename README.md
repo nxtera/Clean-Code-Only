@@ -1,9 +1,9 @@
-# My-First-Coding-Project
+# Clean-Code-Only
 
 ## Introducing a newly designed website detailing the basics of online marketing.
 
 What was my motivation?
-I wanted to demonstrate all that I have learned in html and css over the past week to refactor existing code to make it more readable and accessible to meet good practise standards. 
+I wanted to demonstrate all that I have learned in html and css over the past week to refactor existing code to make it more cleaner and more accessible to meet good practise standards. 
 
 What did I do?
 Using a template html and css file containing good but flawed code as a starting point I went over line by line and carefully:
